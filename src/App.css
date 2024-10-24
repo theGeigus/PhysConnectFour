@@ -37,6 +37,12 @@
   padding: 2em;
 }
 
-.read-the-docs {
-  color: #888;
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
 }
